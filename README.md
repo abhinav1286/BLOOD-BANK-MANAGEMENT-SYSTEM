@@ -1,6 +1,6 @@
 # BLOOD-BANK-MANAGEMENT-SYSTEM
 Developed a Blood Bank Management System, Streamlining blood donation processes with features such as donor registration, inventory tracking, and donor requests.
-The Blood Bank Management Website is a dynamic and user-friendly web platform designed to optimize the critical operations involved in blood donation and inventory management. Developed using MySQL for database management and SQL for efficient data handling, with HTML and CSS for the front-end interface, this open-source project is a comprehensive solution tailored for blood banks, hospitals, and organizations involved in blood donation and distribution.
+The Blood Bank Management Website is a dynamic and user-friendly web platform designed to optimize the critical operations involved in blood donation and inventory management. Developed using MySQL for database management and SQL for efficient data handling, with PhP HTML and CSS for the front-end interface, this open-source project is a comprehensive solution tailored for blood banks, hospitals, and organizations involved in blood donation and distribution.
 
 Key Features:
 
